@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bd5ce0&height=180&section=header&text=Chefao-Dev&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bd5ce0&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Amir;I'm+19+years+old;I+from+Brazil,+Manaus-AM;I+study+systems+development+at+UniNorte;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bd5ce0&size=35&center=true&vCenter=true&width=1000&lines=Hello+Visitor,+My+Name+is+Amir;I'm+19+years;I'm+from+Brazil,City+Manaus-AM;I+study+systems+development+at+UniNorte;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Chefao-Dev&show_icons=true&count_private=true&hide_border=true&title_color=bd5ce0&icon_color=bd5ce0&text_color=FFFFFF&bg_color=191919" alt="Chefao-Dev github stats" /> 
@@ -16,19 +16,19 @@
 </div>
   
 
-### Main skills:
+### 🔮Main skills:
 ![Lua](https://img.shields.io/badge/-Lua-0D1117?style=social&logo=Lua)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=social&logo=JavaScript)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=social&logo=Figma)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=social&logo=MySQL)&nbsp;
 
-### Tools:
+### ⚙Tools:
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=social&logo=Windows)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=social&logo=Visual%20Studio%20Code)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=social&logo=GitHub)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=social&logo=Windows)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=social&logo=Figma)&nbsp;
 
-### Studying in this moment:
+### 🎓Studying in this moment:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=social&logo=JavaScript)&nbsp;
 
   <div align="center">
