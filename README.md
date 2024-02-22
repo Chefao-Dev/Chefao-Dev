@@ -31,7 +31,7 @@
 ### 🎓Studying in this moment:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=social&logo=JavaScript)&nbsp;
 
-[![Discord Server](https://discordapp.com/api/guilds/932784026681491496/embed.png?style=banner1)](https://discord.gg/9mVnF3js6D)
+[![Discord Server](https://discordapp.com/api/guilds/585832029065838603/embed.png?style=banner1)](https://discord.gg/criasgg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bd5ce0&height=120&section=footer"/>
 </div>
