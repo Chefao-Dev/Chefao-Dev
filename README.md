@@ -4,7 +4,7 @@
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Chefao-Dev&show_icons=true&count_private=true&hide_border=true&title_color=bd5ce0&icon_color=bd5ce0&text_color=FFFFFF&bg_color=191919" alt="Chefao-Dev github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=botder&layout=compact&hide_border=true&title_color=bd5ce0&text_color=FFFFFF&bg_color=191919" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chefao-Dev&layout=compact&hide_border=true&title_color=bd5ce0&text_color=FFFFFF&bg_color=191919" />
 </div>
 
 
