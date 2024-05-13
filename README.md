@@ -8,30 +8,32 @@
 </div>
 
 
+  
+
+### 🔧 OS System: 
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/OS-KaliLinux-informational?style=flat&logo=kalilinux&logoColor=white&color=blueviolet)
+
+### 🔮Main skills:
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Code-Lua-informational?style=flat&logo=lua&logoColor=white&color=blueviolet)
+
+### ⚙ Database:
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=blueviolet)
+
+### ⚙ IDE & Tools:
+![](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/IDE-Figma-informational?style=flat&logo=figma&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/GitHub-Git-informational?style=flat&logo=git&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=blueviolet)
+
 <div align="center">  
   <a href="https://www.youtube.com/channel/UCNNEGAEmfb-WCpLHoyTdUGA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/eaechefao/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/eaechefao" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/9mVnF3js6D" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 </div>
-  
-
-### 🔮Main skills:
-![Lua](https://img.shields.io/badge/-Lua-0D1117?style=social&logo=Lua)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=social&logo=JavaScript)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-0D1117?style=social&logo=Figma)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=social&logo=MySQL)&nbsp;
-
-### ⚙Tools:
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=social&logo=Windows)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=social&logo=Visual%20Studio%20Code)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=social&logo=GitHub)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-0D1117?style=social&logo=Figma)&nbsp;
-
-### 🎓Studying in this moment:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=social&logo=JavaScript)&nbsp;
-
-[![Discord Server](https://discordapp.com/api/guilds/585832029065838603/embed.png?style=banner1)](https://discord.gg/crias)
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bd5ce0&height=120&section=footer"/>
 </div>
