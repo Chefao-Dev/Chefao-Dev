@@ -23,6 +23,11 @@
 ### ⚙ Database:
 ![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=blueviolet)
 
+### ☁️ Cloud Servers:
+![](https://img.shields.io/badge/Cloud-Aws-informational?style=flat&logo=amazon&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Cloud-Cloudflare-informational?style=flat&logo=cloudflare&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Cloud-SquareCloud-informational?style=flat&logo=square&logoColor=white&color=blueviolet)
+
 ### ⚙ IDE & Tools:
 ![](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/IDE-Figma-informational?style=flat&logo=figma&logoColor=white&color=blueviolet)
