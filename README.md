@@ -16,6 +16,7 @@
 ![](https://img.shields.io/badge/Data-MySql-informational?style=flat&logo=mysql&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Data-MariaDB-informational?style=flat&logo=mariadb&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/Data-Azure-informational?style=flat&logo=microsoftazure&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/Data-Mongoose-informational?style=flat&logo=mongodb&logoColor=white&color=blueviolet)
 
 ### ☁️ Cloud Servers:
 ![](https://img.shields.io/badge/Cloud-Aws-informational?style=flat&logo=amazon&logoColor=white&color=blueviolet)
