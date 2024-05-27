@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bd5ce0&size=35&center=true&vCenter=true&width=1000&lines=Hello+Visitor;I'm+21+years;I'm+from+Brazil,City+Manaus-AM;I+study+systems+analysis+at+UniNorte;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/148549110172090368)](https://discord.com/users/148549110172090368)
+
 ### 🔧 OS System: 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=blueviolet)
 ![](https://img.shields.io/badge/OS-KaliLinux-informational?style=flat&logo=kalilinux&logoColor=white&color=blueviolet)
